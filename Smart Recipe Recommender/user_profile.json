@@ -1,0 +1,29 @@
+{
+  "favori_malzemeler": [
+    "patates",
+    "tavuk"
+  ],
+  "sevdigi_tarifler": [
+    "Tavuklu Patates Yeme\u011fi",
+    "Tavuk Sote",
+    "F\u0131r\u0131nda Patates"
+  ],
+  "favorite_ingredients": [
+    "chicken",
+    "chicken breast",
+    "mushrooms",
+    "marsala wine",
+    "cream",
+    "parsley",
+    "mashed potatoes"
+  ],
+  "liked_recipes": [
+    "chicken saute",
+    "Chicken Marsala"
+  ],
+  "disliked_recipes": [],
+  "preferred_cuisines": [
+    "Italian"
+  ],
+  "allergies": []
+}

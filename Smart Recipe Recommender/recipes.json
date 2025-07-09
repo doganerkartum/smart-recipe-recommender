@@ -1,0 +1,736 @@
+{
+  "recipes": [
+    {
+      "name": "Classic Spaghetti Carbonara",
+      "ingredients": ["spaghetti", "eggs", "pancetta", "parmesan cheese", "black pepper", "garlic"],
+      "instructions": "1. Cook spaghetti al dente\n2. Fry pancetta with garlic\n3. Mix eggs and parmesan\n4. Combine all ingredients off heat\n5. Season with black pepper",
+      "cuisine": "Italian",
+      "nutrition": {
+        "calories": 650,
+        "protein": 28,
+        "carbs": 75,
+        "fat": 25
+      }
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "ingredients": ["chicken breast", "yogurt", "garam masala", "garlic", "ginger", "tomato puree", "cream", "onion"],
+      "instructions": "1. Marinate chicken in yogurt and spices\n2. Grill chicken pieces\n3. Make sauce with onions, tomatoes and spices\n4. Simmer chicken in sauce\n5. Finish with cream",
+      "cuisine": "Indian",
+      "nutrition": {
+        "calories": 420,
+        "protein": 35,
+        "carbs": 15,
+        "fat": 22
+      }
+    },
+    {
+      "name": "Beef Bourguignon",
+      "ingredients": ["beef chuck", "red wine", "carrots", "onions", "mushrooms", "bacon", "beef stock", "thyme"],
+      "instructions": "1. Brown beef and bacon\n2. Sauté vegetables\n3. Deglaze with wine\n4. Slow cook with herbs\n5. Reduce sauce",
+      "cuisine": "French",
+      "nutrition": {
+        "calories": 580,
+        "protein": 40,
+        "carbs": 20,
+        "fat": 30
+      }
+    },
+    {
+      "name": "Vegetable Stir Fry",
+      "ingredients": ["broccoli", "bell peppers", "carrots", "snap peas", "garlic", "ginger", "soy sauce", "sesame oil"],
+      "instructions": "1. Chop all vegetables\n2. Heat wok with oil\n3. Stir fry garlic and ginger\n4. Add vegetables\n5. Season with soy sauce",
+      "cuisine": "Asian",
+      "nutrition": {
+        "calories": 220,
+        "protein": 8,
+        "carbs": 25,
+        "fat": 10
+      }
+    },
+    {
+      "name": "Greek Salad",
+      "ingredients": ["cucumber", "tomatoes", "red onion", "feta cheese", "kalamata olives", "olive oil", "oregano"],
+      "instructions": "1. Chop vegetables\n2. Add olives and feta\n3. Dress with oil and herbs\n4. Chill before serving",
+      "cuisine": "Greek",
+      "nutrition": {
+        "calories": 320,
+        "protein": 10,
+        "carbs": 15,
+        "fat": 25
+      }
+    },
+    {
+      "name": "Chicken Fajitas",
+      "ingredients": ["chicken breast", "bell peppers", "onion", "fajita seasoning", "tortillas", "lime", "avocado"],
+      "instructions": "1. Slice chicken and vegetables\n2. Season and sauté\n3. Warm tortillas\n4. Serve with lime wedges\n5. Add avocado slices",
+      "cuisine": "Mexican",
+      "nutrition": {
+        "calories": 380,
+        "protein": 30,
+        "carbs": 35,
+        "fat": 15
+      }
+    },
+    {
+      "name": "Shrimp Scampi",
+      "ingredients": ["shrimp", "linguine", "garlic", "white wine", "butter", "lemon", "parsley"],
+      "instructions": "1. Cook pasta\n2. Sauté shrimp and garlic\n3. Deglaze with wine\n4. Finish with butter and lemon\n5. Garnish with parsley",
+      "cuisine": "Italian",
+      "nutrition": {
+        "calories": 450,
+        "protein": 28,
+        "carbs": 40,
+        "fat": 18
+      }
+    },
+    {
+      "name": "Vegetable Lasagna",
+      "ingredients": ["lasagna noodles", "ricotta cheese", "spinach", "zucchini", "tomato sauce", "mozzarella", "basil"],
+      "instructions": "1. Layer noodles\n2. Add ricotta and vegetables\n3. Repeat layers\n4. Top with sauce and cheese\n5. Bake until bubbly",
+      "cuisine": "Italian",
+      "nutrition": {
+        "calories": 420,
+        "protein": 22,
+        "carbs": 45,
+        "fat": 18
+      }
+    },
+    {
+      "name": "Beef Bulgogi",
+      "ingredients": ["ribeye steak", "soy sauce", "pear", "sesame oil", "garlic", "brown sugar", "green onions"],
+      "instructions": "1. Thinly slice beef\n2. Make marinade\n3. Marinate for 2 hours\n4. Grill or pan-fry\n5. Garnish with onions",
+      "cuisine": "Korean",
+      "nutrition": {
+        "calories": 380,
+        "protein": 32,
+        "carbs": 15,
+        "fat": 20
+      }
+    },
+    {
+      "name": "Mushroom Risotto",
+      "ingredients": ["arborio rice", "mushrooms", "chicken stock", "white wine", "parmesan", "onion", "thyme"],
+      "instructions": "1. Sauté mushrooms\n2. Toast rice\n3. Add wine\n4. Gradually add stock\n5. Finish with cheese",
+      "cuisine": "Italian",
+      "nutrition": {
+        "calories": 480,
+        "protein": 14,
+        "carbs": 65,
+        "fat": 16
+      }
+    },
+    {
+      "name": "Chicken Caesar Salad",
+      "ingredients": ["romaine lettuce", "chicken breast", "parmesan", "croutons", "caesar dressing", "lemon", "anchovies"],
+      "instructions": "1. Grill chicken\n2. Chop lettuce\n3. Add croutons\n4. Toss with dressing\n5. Top with parmesan",
+      "cuisine": "American",
+      "nutrition": {
+        "calories": 350,
+        "protein": 28,
+        "carbs": 15,
+        "fat": 20
+      }
+    },
+    {
+      "name": "Beef Tacos",
+      "ingredients": ["ground beef", "taco seasoning", "taco shells", "lettuce", "tomato", "cheddar", "sour cream"],
+      "instructions": "1. Brown beef\n2. Add seasoning\n3. Warm shells\n4. Assemble toppings\n5. Serve with lime",
+      "cuisine": "Mexican",
+      "nutrition": {
+        "calories": 380,
+        "protein": 22,
+        "carbs": 30,
+        "fat": 20
+      }
+    },
+    {
+      "name": "Pad Thai",
+      "ingredients": ["rice noodles", "shrimp", "eggs", "bean sprouts", "peanuts", "tamarind", "fish sauce", "lime"],
+      "instructions": "1. Soak noodles\n2. Make sauce\n3. Stir fry ingredients\n4. Toss with noodles\n5. Garnish with peanuts",
+      "cuisine": "Thai",
+      "nutrition": {
+        "calories": 520,
+        "protein": 25,
+        "carbs": 65,
+        "fat": 18
+      }
+    },
+    {
+      "name": "Ratatouille",
+      "ingredients": ["eggplant", "zucchini", "bell peppers", "tomatoes", "onion", "garlic", "herbes de provence"],
+      "instructions": "1. Slice vegetables\n2. Layer in dish\n3. Add herbs\n4. Bake until tender\n5. Serve warm",
+      "cuisine": "French",
+      "nutrition": {
+        "calories": 180,
+        "protein": 5,
+        "carbs": 25,
+        "fat": 8
+      }
+    },
+    {
+      "name": "Chicken Pot Pie",
+      "ingredients": ["chicken", "pie crust", "carrots", "peas", "celery", "onion", "chicken stock", "thyme"],
+      "instructions": "1. Make filling\n2. Line pie dish\n3. Add filling\n4. Top with crust\n5. Bake until golden",
+      "cuisine": "American",
+      "nutrition": {
+        "calories": 520,
+        "protein": 25,
+        "carbs": 45,
+        "fat": 28
+      }
+    },
+    {
+      "name": "Miso Soup",
+      "ingredients": ["dashi stock", "miso paste", "tofu", "wakame", "green onions"],
+      "instructions": "1. Heat stock\n2. Dissolve miso\n3. Add tofu\n4. Add seaweed\n5. Garnish with onions",
+      "cuisine": "Japanese",
+      "nutrition": {
+        "calories": 80,
+        "protein": 6,
+        "carbs": 5,
+        "fat": 4
+      }
+    },
+    {
+      "name": "Lamb Kofta",
+      "ingredients": ["ground lamb", "onion", "garlic", "cumin", "coriander", "parsley", "yogurt"],
+      "instructions": "1. Mix ingredients\n2. Form skewers\n3. Grill\n4. Serve with yogurt sauce",
+      "cuisine": "Middle Eastern",
+      "nutrition": {
+        "calories": 320,
+        "protein": 28,
+        "carbs": 8,
+        "fat": 20
+      }
+    },
+    {
+      "name": "Vegetable Tempura",
+      "ingredients": ["sweet potato", "zucchini", "bell pepper", "tempura batter", "dipping sauce"],
+      "instructions": "1. Slice vegetables\n2. Make batter\n3. Fry until crispy\n4. Drain on rack\n5. Serve with sauce",
+      "cuisine": "Japanese",
+      "nutrition": {
+        "calories": 280,
+        "protein": 4,
+        "carbs": 35,
+        "fat": 14
+      }
+    },
+    {
+      "name": "Beef Wellington",
+      "ingredients": ["beef tenderloin", "puff pastry", "mushrooms", "prosciutto", "mustard", "egg wash"],
+      "instructions": "1. Sear beef\n2. Make duxelles\n3. Wrap in prosciutto\n4. Encase in pastry\n5. Bake to perfection",
+      "cuisine": "British",
+      "nutrition": {
+        "calories": 680,
+        "protein": 42,
+        "carbs": 35,
+        "fat": 42
+      }
+    },
+    {
+      "name": "Chicken Satay",
+      "ingredients": ["chicken thighs", "peanut sauce", "coconut milk", "lemongrass", "turmeric", "cucumber relish"],
+      "instructions": "1. Marinate chicken\n2. Skewer\n3. Grill\n4. Serve with peanut sauce",
+      "cuisine": "Thai",
+      "nutrition": {
+        "calories": 320,
+        "protein": 28,
+        "carbs": 10,
+        "fat": 20
+      }
+    },
+    {
+      "name": "Eggplant Parmesan",
+      "ingredients": ["eggplant", "tomato sauce", "mozzarella", "parmesan", "basil", "eggs", "breadcrumbs"],
+      "instructions": "1. Bread eggplant\n2. Fry slices\n3. Layer with sauce\n4. Add cheese\n5. Bake until bubbly",
+      "cuisine": "Italian",
+      "nutrition": {
+        "calories": 380,
+        "protein": 18,
+        "carbs": 35,
+        "fat": 20
+      }
+    },
+    {
+      "name": "Pho",
+      "ingredients": ["beef broth", "rice noodles", "beef slices", "bean sprouts", "basil", "lime", "hoisin sauce"],
+      "instructions": "1. Simmer broth\n2. Cook noodles\n3. Assemble bowls\n4. Add toppings\n5. Serve with sauces",
+      "cuisine": "Vietnamese",
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 55,
+        "fat": 12
+      }
+    },
+    {
+      "name": "Chicken Curry",
+      "ingredients": ["chicken", "coconut milk", "curry paste", "potatoes", "onion", "fish sauce", "basil"],
+      "instructions": "1. Sauté paste\n2. Add chicken\n3. Add coconut milk\n4. Simmer with vegetables\n5. Finish with herbs",
+      "cuisine": "Thai",
+      "nutrition": {
+        "calories": 420,
+        "protein": 32,
+        "carbs": 25,
+        "fat": 22
+      }
+    },
+    {
+      "name": "Falafel",
+      "ingredients": ["chickpeas", "parsley", "cumin", "garlic", "onion", "tahini", "pita bread"],
+      "instructions": "1. Soak chickpeas\n2. Make mixture\n3. Form patties\n4. Fry\n5. Serve in pita",
+      "cuisine": "Middle Eastern",
+      "nutrition": {
+        "calories": 350,
+        "protein": 15,
+        "carbs": 45,
+        "fat": 12
+      }
+    },
+    {
+      "name": "Clam Chowder",
+      "ingredients": ["clams", "potatoes", "bacon", "onion", "celery", "cream", "thyme"],
+      "instructions": "1. Cook bacon\n2. Sauté vegetables\n3. Add clams\n4. Add cream\n5. Simmer until thick",
+      "cuisine": "American",
+      "nutrition": {
+        "calories": 380,
+        "protein": 22,
+        "carbs": 30,
+        "fat": 20
+      }
+    },
+    {
+      "name": "Chicken Enchiladas",
+      "ingredients": ["chicken", "tortillas", "enchilada sauce", "cheddar", "onion", "sour cream", "cilantro"],
+      "instructions": "1. Shred chicken\n2. Fill tortillas\n3. Roll\n4. Cover with sauce\n5. Bake with cheese",
+      "cuisine": "Mexican",
+      "nutrition": {
+        "calories": 420,
+        "protein": 28,
+        "carbs": 35,
+        "fat": 20
+      }
+    },
+    {
+      "name": "Pork Dumplings",
+      "ingredients": ["ground pork", "dumpling wrappers", "cabbage", "ginger", "soy sauce", "sesame oil"],
+      "instructions": "1. Make filling\n2. Fill wrappers\n3. Pleat dumplings\n4. Steam or fry\n5. Serve with dipping sauce",
+      "cuisine": "Chinese",
+      "nutrition": {
+        "calories": 280,
+        "protein": 15,
+        "carbs": 30,
+        "fat": 12
+      }
+    },
+    {
+      "name": "Beef Stroganoff",
+      "ingredients": ["beef sirloin", "mushrooms", "sour cream", "mustard", "egg noodles", "brandy", "paprika"],
+      "instructions": "1. Sear beef\n2. Sauté mushrooms\n3. Deglaze pan\n4. Add cream\n5. Serve over noodles",
+      "cuisine": "Russian",
+      "nutrition": {
+        "calories": 520,
+        "protein": 35,
+        "carbs": 40,
+        "fat": 25
+      }
+    },
+    {
+      "name": "Shakshuka",
+      "ingredients": ["eggs", "tomatoes", "bell peppers", "onion", "cumin", "paprika", "feta", "parsley"],
+      "instructions": "1. Sauté vegetables\n2. Add spices\n3. Make wells\n4. Add eggs\n5. Bake until set",
+      "cuisine": "Middle Eastern",
+      "nutrition": {
+        "calories": 280,
+        "protein": 15,
+        "carbs": 20,
+        "fat": 18
+      }
+    },
+    {
+      "name": "Chicken Katsu",
+      "ingredients": ["chicken breast", "panko", "eggs", "tonkatsu sauce", "cabbage", "rice"],
+      "instructions": "1. Bread chicken\n2. Fry until golden\n3. Slice\n4. Serve with sauce\n5. Add shredded cabbage",
+      "cuisine": "Japanese",
+      "nutrition": {
+        "calories": 480,
+        "protein": 35,
+        "carbs": 45,
+        "fat": 18
+      }
+    },
+    {
+      "name": "Lobster Roll",
+      "ingredients": ["lobster meat", "mayonnaise", "lemon", "celery", "hot dog buns", "butter", "chives"],
+      "instructions": "1. Cook lobster\n2. Make dressing\n3. Toast buns\n4. Assemble\n5. Garnish",
+      "cuisine": "American",
+      "nutrition": {
+        "calories": 520,
+        "protein": 30,
+        "carbs": 35,
+        "fat": 30
+      }
+    },
+    {
+      "name": "Pork Schnitzel",
+      "ingredients": ["pork cutlets", "breadcrumbs", "eggs", "lemon", "parsley", "potatoes"],
+      "instructions": "1. Pound meat\n2. Bread\n3. Fry\n4. Serve with lemon\n5. Add potatoes",
+      "cuisine": "German",
+      "nutrition": {
+        "calories": 480,
+        "protein": 35,
+        "carbs": 35,
+        "fat": 22
+      }
+    },
+    {
+      "name": "Paella",
+      "ingredients": ["rice", "chicken", "shrimp", "mussels", "bell peppers", "saffron", "peas"],
+      "instructions": "1. Sauté meat\n2. Add rice\n3. Add broth\n4. Arrange seafood\n5. Cook until done",
+      "cuisine": "Spanish",
+      "nutrition": {
+        "calories": 520,
+        "protein": 35,
+        "carbs": 55,
+        "fat": 18
+      }
+    },
+    {
+      "name": "Chicken Adobo",
+      "ingredients": ["chicken", "soy sauce", "vinegar", "garlic", "bay leaves", "peppercorns"],
+      "instructions": "1. Marinate chicken\n2. Braise\n3. Reduce sauce\n4. Serve over rice",
+      "cuisine": "Filipino",
+      "nutrition": {
+        "calories": 380,
+        "protein": 32,
+        "carbs": 15,
+        "fat": 20
+      }
+    },
+    {
+      "name": "Beef Rendang",
+      "ingredients": ["beef", "coconut milk", "lemongrass", "galangal", "chilies", "kerisik"],
+      "instructions": "1. Slow cook beef\n2. Add spices\n3. Reduce liquid\n4. Fry until dry\n5. Serve with rice",
+      "cuisine": "Malaysian",
+      "nutrition": {
+        "calories": 480,
+        "protein": 35,
+        "carbs": 15,
+        "fat": 32
+      }
+    },
+    {
+      "name": "Moussaka",
+      "ingredients": ["eggplant", "ground lamb", "tomatoes", "cinnamon", "béchamel sauce", "parmesan"],
+      "instructions": "1. Fry eggplant\n2. Cook lamb\n3. Layer ingredients\n4. Top with sauce\n5. Bake until golden",
+      "cuisine": "Greek",
+      "nutrition": {
+        "calories": 420,
+        "protein": 25,
+        "carbs": 25,
+        "fat": 25
+      }
+    },
+    {
+      "name": "Chicken Shawarma",
+      "ingredients": ["chicken thighs", "pita bread", "garlic sauce", "pickles", "tomatoes", "shawarma spice"],
+      "instructions": "1. Marinate chicken\n2. Grill\n3. Slice\n4. Assemble in pita\n5. Add toppings",
+      "cuisine": "Middle Eastern",
+      "nutrition": {
+        "calories": 480,
+        "protein": 35,
+        "carbs": 40,
+        "fat": 20
+      }
+    },
+    {
+      "name": "Fish Tacos",
+      "ingredients": ["white fish", "corn tortillas", "cabbage", "lime crema", "avocado", "cilantro"],
+      "instructions": "1. Season fish\n2. Grill\n3. Warm tortillas\n4. Assemble\n5. Drizzle with crema",
+      "cuisine": "Mexican",
+      "nutrition": {
+        "calories": 320,
+        "protein": 25,
+        "carbs": 30,
+        "fat": 12
+      }
+    },
+    {
+      "name": "Chicken Piccata",
+      "ingredients": ["chicken breast", "capers", "lemon", "white wine", "butter", "parsley", "pasta"],
+      "instructions": "1. Pound chicken\n2. Sauté\n3. Make sauce\n4. Serve over pasta\n5. Garnish",
+      "cuisine": "Italian",
+      "nutrition": {
+        "calories": 420,
+        "protein": 35,
+        "carbs": 30,
+        "fat": 18
+      }
+    },
+    {
+      "name": "Beef Pho",
+      "ingredients": ["beef broth", "rice noodles", "beef slices", "bean sprouts", "basil", "lime", "hoisin sauce"],
+      "instructions": "1. Simmer broth\n2. Cook noodles\n3. Assemble bowls\n4. Add toppings\n5. Serve with sauces",
+      "cuisine": "Vietnamese",
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 55,
+        "fat": 12
+      }
+    },
+    {
+      "name": "Lamb Tagine",
+      "ingredients": ["lamb shoulder", "apricots", "almonds", "cinnamon", "ginger", "couscous", "honey"],
+      "instructions": "1. Brown lamb\n2. Add spices\n3. Slow cook\n4. Add fruit\n5. Serve with couscous",
+      "cuisine": "Moroccan",
+      "nutrition": {
+        "calories": 520,
+        "protein": 35,
+        "carbs": 45,
+        "fat": 25
+      }
+    },
+    {
+      "name": "Chicken Teriyaki",
+      "ingredients": ["chicken thighs", "soy sauce", "mirin", "sake", "sugar", "ginger", "rice"],
+      "instructions": "1. Make sauce\n2. Grill chicken\n3. Glaze\n4. Slice\n5. Serve over rice",
+      "cuisine": "Japanese",
+      "nutrition": {
+        "calories": 420,
+        "protein": 32,
+        "carbs": 45,
+        "fat": 12
+      }
+    },
+    {
+      "name": "Beef Empanadas",
+      "ingredients": ["ground beef", "empanada dough", "olives", "hard-boiled eggs", "cumin", "paprika"],
+      "instructions": "1. Make filling\n2. Fill dough\n3. Seal\n4. Bake\n5. Serve with chimichurri",
+      "cuisine": "Argentinian",
+      "nutrition": {
+        "calories": 320,
+        "protein": 18,
+        "carbs": 25,
+        "fat": 18
+      }
+    },
+    {
+      "name": "Chicken Cordon Bleu",
+      "ingredients": ["chicken breast", "ham", "swiss cheese", "breadcrumbs", "mustard", "white wine sauce"],
+      "instructions": "1. Pound chicken\n2. Add filling\n3. Roll\n4. Bread\n5. Bake until golden",
+      "cuisine": "French",
+      "nutrition": {
+        "calories": 480,
+        "protein": 42,
+        "carbs": 20,
+        "fat": 25
+      }
+    },
+    {
+      "name": "Vegetable Biryani",
+      "ingredients": ["basmati rice", "cauliflower", "carrots", "peas", "yogurt", "biryani spices", "saffron"],
+      "instructions": "1. Parboil rice\n2. Layer with vegetables\n3. Add spices\n4. Dum cook\n5. Serve with raita",
+      "cuisine": "Indian",
+      "nutrition": {
+        "calories": 380,
+        "protein": 12,
+        "carbs": 65,
+        "fat": 10
+      }
+    },
+    {
+      "name": "Pork Belly Buns",
+      "ingredients": ["pork belly", "steamed buns", "hoisin sauce", "cucumber", "scallions", "five-spice"],
+      "instructions": "1. Braise pork\n2. Steam buns\n3. Slice pork\n4. Assemble buns\n5. Add toppings",
+      "cuisine": "Chinese",
+      "nutrition": {
+        "calories": 420,
+        "protein": 22,
+        "carbs": 35,
+        "fat": 22
+      }
+    },
+    {
+      "name": "Salmon Niçoise",
+      "ingredients": ["salmon", "green beans", "potatoes", "olives", "eggs", "tomatoes", "vinaigrette"],
+      "instructions": "1. Cook salmon\n2. Blanch vegetables\n3. Boil eggs\n4. Arrange salad\n5. Dress with vinaigrette",
+      "cuisine": "French",
+      "nutrition": {
+        "calories": 420,
+        "protein": 32,
+        "carbs": 25,
+        "fat": 22
+      }
+    },
+    {
+      "name": "Chicken Mole",
+      "ingredients": ["chicken", "chocolate", "chilies", "almonds", "raisins", "cinnamon", "sesame seeds"],
+      "instructions": "1. Make mole sauce\n2. Poach chicken\n3. Combine\n4. Simmer\n5. Garnish with seeds",
+      "cuisine": "Mexican",
+      "nutrition": {
+        "calories": 480,
+        "protein": 35,
+        "carbs": 25,
+        "fat": 28
+      }
+    },
+    {
+      "name": "Beef Bibimbap",
+      "ingredients": ["rice", "beef", "vegetables", "gochujang", "fried egg", "sesame oil", "kimchi"],
+      "instructions": "1. Cook rice\n2. Prepare toppings\n3. Arrange in bowl\n4. Add egg\n5. Mix with sauce",
+      "cuisine": "Korean",
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 65,
+        "fat": 18
+      }
+    },
+    {
+      "name": "Lobster Bisque",
+      "ingredients": ["lobster", "brandy", "cream", "tomato paste", "cognac", "thyme", "croutons"],
+      "instructions": "1. Cook lobster\n2. Make stock\n3. Sauté aromatics\n4. Blend\n5. Finish with cream",
+      "cuisine": "French",
+      "nutrition": {
+        "calories": 380,
+        "protein": 22,
+        "carbs": 15,
+        "fat": 25
+      }
+    },
+    {
+      "name": "Chicken Souvlaki",
+      "ingredients": ["chicken", "pita", "tzatziki", "tomatoes", "red onion", "oregano", "lemon"],
+      "instructions": "1. Marinate chicken\n2. Skewer\n3. Grill\n4. Assemble in pita\n5. Add toppings",
+      "cuisine": "Greek",
+      "nutrition": {
+        "calories": 420,
+        "protein": 35,
+        "carbs": 35,
+        "fat": 18
+      }
+    },
+    {
+      "name": "Duck Confit",
+      "ingredients": ["duck legs", "duck fat", "garlic", "thyme", "potatoes", "green beans"],
+      "instructions": "1. Cure duck\n2. Cook in fat\n3. Crisp skin\n4. Serve with potatoes\n5. Add vegetables",
+      "cuisine": "French",
+      "nutrition": {
+        "calories": 580,
+        "protein": 32,
+        "carbs": 25,
+        "fat": 40
+      }
+    },
+    {
+      "name": "Vegetable Samosas",
+      "ingredients": ["potatoes", "peas", "samosa pastry", "cumin", "coriander", "mint chutney"],
+      "instructions": "1. Cook filling\n2. Fill pastry\n3. Fold\n4. Fry\n5. Serve with chutney",
+      "cuisine": "Indian",
+      "nutrition": {
+        "calories": 280,
+        "protein": 6,
+        "carbs": 35,
+        "fat": 14
+      }
+    },
+    {
+      "name": "Beef Carpaccio",
+      "ingredients": ["beef tenderloin", "arugula", "parmesan", "truffle oil", "capers", "lemon"],
+      "instructions": "1. Slice beef thin\n2. Arrange on plate\n3. Add toppings\n4. Drizzle oil\n5. Season",
+      "cuisine": "Italian",
+      "nutrition": {
+        "calories": 320,
+        "protein": 25,
+        "carbs": 5,
+        "fat": 22
+      }
+    },
+    {
+      "name": "Chicken Parmesan",
+      "ingredients": ["chicken breast", "tomato sauce", "mozzarella", "parmesan", "basil", "spaghetti"],
+      "instructions": "1. Bread chicken\n2. Fry\n3. Top with sauce\n4. Add cheese\n5. Bake until bubbly",
+      "cuisine": "Italian",
+      "nutrition": {
+        "calories": 580,
+        "protein": 45,
+        "carbs": 45,
+        "fat": 25
+      }
+    },
+    {
+      "name": "Pork Tonkatsu",
+      "ingredients": ["pork loin", "panko", "tonkatsu sauce", "cabbage", "rice", "miso soup"],
+      "instructions": "1. Bread pork\n2. Fry\n3. Slice\n4. Serve with sauce\n5. Add sides",
+      "cuisine": "Japanese",
+      "nutrition": {
+        "calories": 520,
+        "protein": 35,
+        "carbs": 45,
+        "fat": 22
+      }
+    },
+    {
+      "name": "Beef Fajitas",
+      "ingredients": ["skirt steak", "bell peppers", "onion", "lime", "tortillas", "guacamole"],
+      "instructions": "1. Marinate steak\n2. Grill\n3. Sauté vegetables\n4. Warm tortillas\n5. Serve with toppings",
+      "cuisine": "Mexican",
+      "nutrition": {
+        "calories": 480,
+        "protein": 35,
+        "carbs": 35,
+        "fat": 22
+      }
+    },
+    {
+      "name": "Chicken Marsala",
+      "ingredients": ["chicken breast", "mushrooms", "marsala wine", "cream", "parsley", "mashed potatoes"],
+      "instructions": "1. Pound chicken\n2. Sauté\n3. Make sauce\n4. Serve with potatoes\n5. Garnish",
+      "cuisine": "Italian",
+      "nutrition": {
+        "calories": 420,
+        "protein": 32,
+        "carbs": 25,
+        "fat": 18
+      }
+    },
+    {
+      "name": "Lamb Vindaloo",
+      "ingredients": ["lamb", "vinegar", "chilies", "ginger", "garlic", "potatoes", "basmati rice"],
+      "instructions": "1. Marinate lamb\n2. Sauté spices\n3. Slow cook\n4. Add potatoes\n5. Serve with rice",
+      "cuisine": "Indian",
+      "nutrition": {
+        "calories": 480,
+        "protein": 35,
+        "carbs": 35,
+        "fat": 22
+      }
+    },
+    {
+      "name": "Crab Cakes",
+      "ingredients": ["crab meat", "breadcrumbs", "mayonnaise", "mustard", "old bay seasoning", "remoulade"],
+      "instructions": "1. Mix ingredients\n2. Form patties\n3. Chill\n4. Pan fry\n5. Serve with sauce",
+      "cuisine": "American",
+      "nutrition": {
+        "calories": 320,
+        "protein": 22,
+        "carbs": 15,
+        "fat": 20
+      }
+    },
+    {
+      "name": "Chicken Tikka",
+      "ingredients": ["chicken", "yogurt", "garam masala", "ginger", "garlic", "lemon", "naan"],
+      "instructions": "1. Marinate chicken\n2. Skewer\n3. Grill\n4. Serve with naan\n5. Garnish",
+      "cuisine": "Indian",
+      "nutrition": {
+        "calories": 380,
+        "protein": 35,
+        "carbs": 25,
+        "fat": 18
+      }
+    }
+  ]
+}

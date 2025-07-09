@@ -1,0 +1,26 @@
+{
+  "F\u0131r\u0131nda Patates": {
+    "be\u011fendi": 2,
+    "be\u011fenmedi": 0
+  },
+  "Tavuklu Patates Yeme\u011fi": {
+    "be\u011fendi": 1,
+    "be\u011fenmedi": 0
+  },
+  "Tavuk Sote": {
+    "be\u011fendi": 1,
+    "be\u011fenmedi": 0
+  },
+  "Chicken Saute": {
+    "likes": 2,
+    "dislikes": 0
+  },
+  "Chicken with Potatoes": {
+    "likes": 0,
+    "dislikes": 1
+  },
+  "Chicken Marsala": {
+    "likes": 1,
+    "dislikes": 0
+  }
+}
