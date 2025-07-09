@@ -1,24 +1,40 @@
-# 🩺 Heart Disease Prediction with Machine Learning
+# 🧠 Smart Recipe Recommender
 
-This project uses a supervised machine learning approach to predict the presence of heart disease using the UCI Heart Disease dataset.
+A simple yet powerful Python-based application that recommends personalized recipes using available ingredients and dietary preferences. This project is ideal for anyone who wants to reduce food waste and cook smarter with what they already have at home.
 
-## 🔧 Key Features
-- Algorithm: Random Forest Classifier
-- Hyperparameter tuning with GridSearchCV
-- Cross-validation and performance metrics (accuracy, AUC, confusion matrix)
-- Feature importance visualization and ROC curve analysis
+## 🔍 Features
 
-## 📊 Results
-- Accuracy: ~88%
-- AUC Score: ~0.91
-- Balanced prediction with low false positive/negative rates
+- Input your ingredients
+- Get smart recipe suggestions
+- Filter by dietary preferences (vegan, vegetarian, etc.)
+- Reduce waste by using up what you have
 
-## 📁 Files Included
-- `heart_disease_model.py`: Full code for training and evaluation
-- `Heart_Disease_Report.docx`: Report with analysis, visuals, and explanations
+## 🧪 Technologies Used
 
-## ✅ Skills Demonstrated
-- Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
-- Model training, tuning, and evaluation
-- Report writing and result interpretation
+- Python
+- Pandas
+- JSON / CSV for ingredient & recipe storage
+- *(Optional: Flask / Streamlit for UI)*
+
+## 🚀 Getting Started
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/doganerkartum/smart-recipe-recommender.git
+   cd smart-recipe-recommender
+   
+Run the app (CLI version):
+python main.py
+Input your ingredients and get recommendations!
+
+📌 Future Improvements
+Add a web interface using Streamlit or Flask
+
+Support for multilingual ingredients
+
+Integration with grocery APIs
+
+Save favorite recipes
+
+📄 License
+This project is open-source and free to use.
